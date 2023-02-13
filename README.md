@@ -1,2 +1,4 @@
 # feriados-chile
-Python function that gets Chile's holidays
+Función de python que obtiene los feriados chilenos.
+
+Python function that gets Chile's holidays.
